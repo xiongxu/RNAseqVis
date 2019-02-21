@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 
-# Copyright (c)   AB_Life 2011
-# Writer:         xuxiong <xuxiong19880610@163.com>
+# Copyright (c)   xuxiong
+# Writer:         xuxiong <xuxiong19880610@163.com> <xiongxu@me.com>
 # Program Date:   2011.
-# Modifier:       xuxiong <xuxiong19880610@163.com>
+# Modifier:       xuxiong <xuxiong19880610@163.com> <xiongxu@me.com>
 # Last Modified:  2011.
 
 use strict;

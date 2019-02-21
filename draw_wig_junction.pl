@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 
-# Copyright (c)   ABLife & Berrygenomics 2011-2012
-# Writer:         xuxiong <xuxiong19880610@163.com><xuxiong@berrygenomics.com>
+# Copyright (c)   xiongxu 2011-2012
+# Writer:         xuxiong <xuxiong19880610@163.com>
 # Program Date:   2011.12.25
-# Modifier:       xuxiong <xuxiong19880610@163.com><xuxiong@berrygenomics.com>
+# Modifier:       xuxiong <xuxiong19880610@163.com>
 # Last Modified:  2012.11.27
 
 use strict;
